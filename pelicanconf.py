@@ -10,10 +10,8 @@ SITESUBTITLE = 'thoughts, results and ramblings on machine learning'
 SITELOGO = 'https://avatars0.githubusercontent.com/u/1017968?v=3&u=489ec35a177e0a3d2454fe6699958799c27fab4d&s=400'
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
-FAVICON = '/extra/favicon.ico'
 
 ROBOTS = 'index, follow'
-
 
 PATH = 'content'
 
@@ -53,9 +51,14 @@ COPYRIGHT_YEAR = 2017
 
 DEFAULT_PAGINATION = 10
 
-STATIC_PATHS = ['images', 'extra', 'extra/favicon.ico']
+STATIC_PATHS = [
+    'images',
+    'extra/robots.txt',
+    'extra/favicon.ico'
+]
 EXTRA_PATH_METADATA = {
-    'extra/favicon.ico':{'path':'favicon.ico'}
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
 MARKUP = ('md', 'ipynb')
