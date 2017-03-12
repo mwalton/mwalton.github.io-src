@@ -29,7 +29,6 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 MAIN_MENU = True
-LINKS = (('about', 'https://mwalton.github.io'),)
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/michael-walton-35135438'),
