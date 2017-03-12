@@ -61,6 +61,7 @@ EXTRA_PATH_METADATA = {
 MARKUP = ('md', 'ipynb')
 PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['ipynb.markup']
+IPYNB_IGNORE_CSS=True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
