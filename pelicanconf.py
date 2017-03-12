@@ -8,8 +8,6 @@ SITEURL = ''
 SITETITLE = AUTHOR
 SITESUBTITLE = 'machine learning results and ramblings'
 SITELOGO = 'https://avatars0.githubusercontent.com/u/1017968?v=3&u=489ec35a177e0a3d2454fe6699958799c27fab4d&s=400'
-BROWSER_COLOR = '#333333'
-PYGMENTS_STYLE = 'monokai'
 
 ROBOTS = 'index, follow'
 
@@ -51,6 +49,7 @@ COPYRIGHT_YEAR = 2017
 DEFAULT_PAGINATION = 10
 
 STATIC_PATHS = [
+    'notebooks',
     'images',
     'extra/robots.txt',
     'extra/favicon.ico'
@@ -60,9 +59,9 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
-MARKUP = ('md', 'ipynb')
-PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['ipynb.markup']
+MARKUP = ('md',)
+PLUGIN_PATHS = ['plugins','pelican-plugins']
+PLUGINS = ['liquid_tags.notebook', 'ipynb.liquid']
 IPYNB_IGNORE_CSS=True
 
 # Uncomment following line if you want document-relative URLs when developing

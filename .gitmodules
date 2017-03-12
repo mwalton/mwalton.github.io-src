@@ -10,3 +10,6 @@
 [submodule "resume"]
 	path = resume
 	url = git@github.com:mwalton/resume.git
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = https://github.com/getpelican/pelican-plugins.git

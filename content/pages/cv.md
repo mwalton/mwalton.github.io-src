@@ -10,7 +10,7 @@ Education
 :   *GPA: 3.7*
 
 
-**B.S. Cognitive Sceince**; University of California, Santa Cruz
+**B.S. Cognitive Science**; University of California, Santa Cruz
 :   *Thesis Title: Modelling Active Vision in the EPIC cognitive architecture*
 :   *Cum laude, Highest Honors, GPA: 3.8*
 :   *Specialization: Artificial Intelligence & Human Computer Interaction*
