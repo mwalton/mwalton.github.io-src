@@ -26,7 +26,7 @@ Experience
 Technical Expertise
 --------------------
 - **Languages:** Python, Java, C, C++
-- **Scientific Computing:** NuPy, SciPy, Pandas, Jupyter
+- **Scientific Computing:** NuPy, SciPy, OpenCV, Jupyter, Pandas
 - **Data Science / ML:** Tensorflow, Keras, Theano, scikit-learn
 - **Technical Writing:** LaTeX, markdown, reStructuredText
 - **Development Support:** git, svn, JIRA / Atlassian
