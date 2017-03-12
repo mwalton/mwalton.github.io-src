@@ -6,7 +6,7 @@ AUTHOR = u'Mike Walton'
 SITENAME = "Mike Walton"
 SITEURL = ''
 SITETITLE = AUTHOR
-SITESUBTITLE = 'thoughts, results and ramblings on machine learning'
+SITESUBTITLE = 'machine learning results and ramblings'
 SITELOGO = 'https://avatars0.githubusercontent.com/u/1017968?v=3&u=489ec35a177e0a3d2454fe6699958799c27fab4d&s=400'
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'monokai'
