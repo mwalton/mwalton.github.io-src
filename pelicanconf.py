@@ -8,6 +8,7 @@ SITEURL = ''
 SITETITLE = AUTHOR
 SITESUBTITLE = 'machine learning results and ramblings'
 SITELOGO = 'https://avatars0.githubusercontent.com/u/1017968?v=3&u=489ec35a177e0a3d2454fe6699958799c27fab4d&s=400'
+FAVICON = 'favicon.ico'
 
 ROBOTS = 'index, follow'
 
