@@ -27,7 +27,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-MAIN_MENU = True
+MAIN_MENU = False
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/michael-walton-35135438'),
