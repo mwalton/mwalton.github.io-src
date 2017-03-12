@@ -31,7 +31,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 MAIN_MENU = True
-LINKS = (('about', 'http://getpelican.com/'),)
+LINKS = (('about', 'https://mwalton.github.io'),)
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/michael-walton-35135438'),
@@ -57,5 +57,10 @@ STATIC_PATHS = ['images', 'extra', 'extra/favicon.ico']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico':{'path':'favicon.ico'}
 }
+
+MARKUP = ('md', 'ipynb')
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = ['ipynb.markup']
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
