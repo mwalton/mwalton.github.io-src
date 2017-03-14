@@ -48,6 +48,8 @@ Posters & Talks
 - Walton, Ayache, Straatemeier, Gebhardt, Migliori __Learning to Generate RF with Recurrent Mixture Density Networks__, Naval Applications of Machine Learning (NAML) 2017
 - Straatemeier, Barkatullah, Migliori, Gebhardt, Walton __Data Augmentation for Radio Frequency Modulation Classification__, Naval Applications of Machine Learning (NAML) 2017
 - Ayache, Walton, Gebhardt, Straatemeier, Migliori __Long Short-Term Memory for Online Modulation Classification__, Naval Applications of Machine Learning (NAML) 2017
+- Rhodes, Walton __Quantifying the Utility of Artificial Neural Circuitry__, Neuro-Inspired Computational Elements (NICE) 2015
+- Walton, Seymour, __A Computational Model of Goal-Directed Visual Attention__, UCSC Cognitive Science Student Association 2014
 
 Patents
 -------
