@@ -25,31 +25,29 @@ Experience
 
 Technical Expertise
 --------------------
-- **Languages:** Python, Java, C, C++
-- **Scientific Computing:** NuPy, SciPy, OpenCV, Jupyter, Pandas
-- **Data Science / ML:** Tensorflow, Keras, Theano, scikit-learn
+- **Languages:** Python, Java, C, Scala, R
+- **Scientific Computing:** NumPy, SciPy, Pandas, OpenCV, Hadoop, Spark
+- **Data Science / ML:** PyTorch, Tensorflow, Keras, Theano, scikit-learn
 - **Technical Writing:** LaTeX, markdown, reStructuredText
 - **Development Support:** git, svn, JIRA / Atlassian
 - **Design & Development:** functional programming & oop design patterns
 
-Conference Publications
+Publications
 ------------
-- Walton, Lange, Zhu, __Inferring Context through Scene Understanding__, Proceedings AAAI Spring Symposium Series 2017
+- Walton, Migliori, Gebhardt, __Unsupervised Anomaly Detection for Digital Radio Frequency Transmissions__, IEEE International Conference on Machine Learning Applications (ICMLA) 2017
 - Gebhardt, Parikh, Walton, Dzieciuch, __Hunting for Mine-like Objects with Deep Neural Networks__, IEEE/MTS OCEAN 2017
+- Walton, Lange, Zhu, __Inferring Context through Scene Understanding__, Proceedings AAAI Spring Symposium Series 2017
+- Walton, Ayache, Straatemeier, Gebhardt, Migliori __Learning to Generate RF with Recurrent Mixture Density Networks__, Naval Applications of Machine Learning (NAML) 2017
+- Straatemeier, Barkatullah, Migliori, Gebhardt, Walton __Data Augmentation for Radio Frequency Modulation Classification__, Naval Applications of Machine Learning (NAML) 2017
+- Ayache, Walton, Gebhardt, Straatemeier, Migliori __Long Short-Term Memory for Online Modulation Classification__, Naval Applications of Machine Learning (NAML) 2017
+- Rhodes, Walton __Quantifying the Utility of Artificial Neural Circuitry__, Neuro-Inspired Computational Elements (NICE) 2015
+- Walton, Seymour, __A Computational Model of Goal-Directed Visual Attention__, UCSC Cognitive Science Student Association 2014
 
 Technical Reports
 -----------------
 - Walton, Migliori, Gebhardt, Straatemeier, __Learning and Visualizing Modulation Discriminative Radio Signal Features__, Oct 2016
 - Migliori, Gebhardt, Walton, Straatemeier, __Model-free Noise Reduction of Radio Transmissions with Convolutional Autoencoders__, Oct 2016
 - Gebhardt, Migliori, Walton, Straatemeier, __Radio Signal Augmentation for Improved Training of a Convolutional Neural Network__, Oct 2016
-
-Posters & Talks
----------------
-- Walton, Ayache, Straatemeier, Gebhardt, Migliori __Learning to Generate RF with Recurrent Mixture Density Networks__, Naval Applications of Machine Learning (NAML) 2017
-- Straatemeier, Barkatullah, Migliori, Gebhardt, Walton __Data Augmentation for Radio Frequency Modulation Classification__, Naval Applications of Machine Learning (NAML) 2017
-- Ayache, Walton, Gebhardt, Straatemeier, Migliori __Long Short-Term Memory for Online Modulation Classification__, Naval Applications of Machine Learning (NAML) 2017
-- Rhodes, Walton __Quantifying the Utility of Artificial Neural Circuitry__, Neuro-Inspired Computational Elements (NICE) 2015
-- Walton, Seymour, __A Computational Model of Goal-Directed Visual Attention__, UCSC Cognitive Science Student Association 2014
 
 Patents
 -------
