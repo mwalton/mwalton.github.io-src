@@ -5,24 +5,24 @@ Title: Curriculum Vitae
 Publications
 ------------
 
-- Walton, Migliori, Gebhardt, __Unsupervised Anomaly Detection for Digital Radio Frequency Transmissions__, IEEE International Conference on Machine Learning Applications (ICMLA) 2017
-- Wroblewski, Walton, Manukain, Culkin __Activity Identification and Vehicle Classification by Behavioral Analysis of Kinematic Data__, National Symposium on Sensor and Data Fusion (NSSDF) 2017
-- Gebhardt, Parikh, Walton, Dzieciuch, __Hunting for Mine-like Objects with Deep Neural Networks__, IEEE/MTS OCEAN 2017
-- Walton, Lange, Zhu, __Inferring Context in Scene Understanding__, Proceedings AAAI Spring Symposium Series 2017
-- Walton, Ayache, Straatemeier, Gebhardt, Migliori __Learning to Generate RF with Recurrent Mixture Density Networks__, Naval Applications of Machine Learning (NAML) 2017
-- Straatemeier, Barkatullah, Migliori, Gebhardt, Walton __Data Augmentation for Radio Frequency Modulation Classification__, Naval Applications of Machine Learning (NAML) 2017
-- Ayache, Walton, Gebhardt, Straatemeier, Migliori __Long Short-Term Memory for Online Modulation Classification__, Naval Applications of Machine Learning (NAML) 2017
-- Walton, Migliori, Gebhardt, Straatemeier, __Learning and Visualizing Modulation Discriminative Radio Signal Features__, Defense Technical Information Center 2016
-- Migliori, Gebhardt, Walton, Straatemeier, __Model-free Noise Reduction of Radio Transmissions with Convolutional Autoencoders__, Defense Technical Information Center 2016
-- Gebhardt, Migliori, Walton, Straatemeier, __Radio Signal Augmentation for Improved Training of a Convolutional Neural Network__, Defense Technical Information Center 2016
-- Rhodes, Walton __Quantifying the Utility of Artificial Neural Circuitry__, Neuro-Inspired Computational Elements (NICE) 2015
-- Walton, Seymour, __A Computational Model of Goal-Directed Visual Attention__, UCSC Cognitive Science Student Association 2014
+- __Unsupervised Anomaly Detection for Digital Radio Frequency Transmissions__, Walton, Migliori, Gebhardt, IEEE International Conference on Machine Learning Applications (ICMLA) 2017
+- __Activity Identification and Vehicle Classification by Behavioral Analysis of Kinematic Data__, Wroblewski, Walton, Manukain, Culkin, National Symposium on Sensor and Data Fusion (NSSDF) 2017
+- __Hunting for Mine-like Objects with Deep Neural Networks__, Gebhardt, Parikh, Walton, Dzieciuch, IEEE/MTS OCEAN 2017
+- __Inferring Context in Scene Understanding__, Walton, Lange, Zhu, Proceedings AAAI Spring Symposium Series 2017
+- __Learning to Generate RF with Recurrent Mixture Density Networks__, Walton, Ayache, Straatemeier, Gebhardt, Migliori, Naval Applications of Machine Learning (NAML) 2017
+- __Data Augmentation for Radio Frequency Modulation Classification__, Straatemeier, Barkatullah, Migliori, Gebhardt, Walton, Naval Applications of Machine Learning (NAML) 2017
+- __Long Short-Term Memory for Online Modulation Classification__, Ayache, Walton, Gebhardt, Straatemeier, Migliori, Naval Applications of Machine Learning (NAML) 2017
+- __Learning and Visualizing Modulation Discriminative Radio Signal Features__, Walton, Migliori, Gebhardt, Straatemeier, Defense Technical Information Center 2016
+- __Model-free Noise Reduction of Radio Transmissions with Convolutional Autoencoders__, Migliori, Gebhardt, Walton, Straatemeier, Defense Technical Information Center 2016
+- __Radio Signal Augmentation for Improved Training of a Convolutional Neural Network__, Gebhardt, Migliori, Walton, Straatemeier, Defense Technical Information Center 2016
+- __Quantifying the Utility of Artificial Neural Circuitry__, Rhodes, Walton, Neuro-Inspired Computational Elements (NICE) 2015
+- __A Computational Model of Goal-Directed Visual Attention__, Walton, Seymour, UCSC Cognitive Science Student Association 2014
 
 Patents
 -------
 
-- Migliori, Gebhardt, Walton, Straatemeier, __Model-free Noise Reduction of Radio Transmissions with Convolutional Autoencoders__, Oct 2016
-- Gebhardt, Migliori, Walton, Straatemeier, Ayache __An Asynchronous Architecture to Perform Artificial Neural Network Calculations for Sequential Data__, Jan 2017
+- __Model-free Noise Reduction of Radio Transmissions with Convolutional Autoencoders__, Migliori, Gebhardt, Walton, Straatemeier, Oct 2016
+- __An Asynchronous Architecture to Perform Artificial Neural Network Calculations for Sequential Data__, Gebhardt, Migliori, Walton, Straatemeier, Ayache, Jan 2017
 
 Education
 ---------
