@@ -6,8 +6,9 @@ Publications
 ------------
 
 - Walton, Migliori, Gebhardt, __Unsupervised Anomaly Detection for Digital Radio Frequency Transmissions__, IEEE International Conference on Machine Learning Applications (ICMLA) 2017
+- Wroblewski, Walton, Manukain, Culkin __Activity Identification and Vehicle Classification by Behavioral Analysis of Kinematic Data__, National Symposium on Sensor and Data Fusion (NSSDF) 2017
 - Gebhardt, Parikh, Walton, Dzieciuch, __Hunting for Mine-like Objects with Deep Neural Networks__, IEEE/MTS OCEAN 2017
-- Walton, Lange, Zhu, __Inferring Context through Scene Understanding__, Proceedings AAAI Spring Symposium Series 2017
+- Walton, Lange, Zhu, __Inferring Context in Scene Understanding__, Proceedings AAAI Spring Symposium Series 2017
 - Walton, Ayache, Straatemeier, Gebhardt, Migliori __Learning to Generate RF with Recurrent Mixture Density Networks__, Naval Applications of Machine Learning (NAML) 2017
 - Straatemeier, Barkatullah, Migliori, Gebhardt, Walton __Data Augmentation for Radio Frequency Modulation Classification__, Naval Applications of Machine Learning (NAML) 2017
 - Ayache, Walton, Gebhardt, Straatemeier, Migliori __Long Short-Term Memory for Online Modulation Classification__, Naval Applications of Machine Learning (NAML) 2017
