@@ -6,7 +6,7 @@ AUTHOR = u'Mike Walton'
 SITENAME = "Mike Walton"
 SITEURL = ''
 SITETITLE = AUTHOR
-SITESUBTITLE = 'machine learning research and ramblings'
+SITESUBTITLE = 'open notebook ML'
 SITELOGO = 'https://avatars0.githubusercontent.com/u/1017968?v=3&u=489ec35a177e0a3d2454fe6699958799c27fab4d&s=400'
 FAVICON = 'favicon.ico'
 
@@ -17,7 +17,7 @@ PATH = 'content'
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
-THEME='./themes/Flex'
+THEME='/Users/mwalton/workspace/pelican-themes/Flex'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -50,7 +50,7 @@ COPYRIGHT_YEAR = 2018
 DEFAULT_PAGINATION = 10
 
 STATIC_PATHS = [
-    'notebooks',
+    'pdfs',
     'images',
     'extra/robots.txt',
     'extra/favicon.ico'

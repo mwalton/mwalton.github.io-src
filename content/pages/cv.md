@@ -2,8 +2,4 @@
 Title: Curriculum Vitae
 ---
 
-<object data="https://github.com/mwalton/resume/blob/master/mwalton_resume.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/mwalton/resume/blob/master/mwalton_resume.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/mwalton/resume/blob/master/mwalton_resume.pdf">Download</a>.</p>
-    </embed>
-</object>
+<embed src="{static}/pdfs/mwalton_resume.pdf" type="application/pdf" width="800" height="600"/>
