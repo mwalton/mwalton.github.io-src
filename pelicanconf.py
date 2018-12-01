@@ -45,7 +45,7 @@ CC_LICENSE = {
     'slug': 'by-sa'
 }
 
-COPYRIGHT_YEAR = 2017
+COPYRIGHT_YEAR = 2018
 
 DEFAULT_PAGINATION = 10
 
@@ -60,9 +60,10 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
-MARKUP = ('md',)
-PLUGIN_PATHS = ['plugins','pelican-plugins']
-PLUGINS = ['liquid_tags.notebook', 'ipynb.liquid']
+MARKUP = ('md', 'ipynb')
+PLUGIN_PATHS = ['./plugins','pelican-plugins']
+PLUGINS = ['ipynb.markup']
+IGNORE_FILES = [".ipynb_checkpoints"]
 IPYNB_IGNORE_CSS=True
 
 # Uncomment following line if you want document-relative URLs when developing
