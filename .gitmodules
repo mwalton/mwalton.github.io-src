@@ -1,6 +1,6 @@
 [submodule "output"]
 	path = output
-	url = git@github.com:mwalton/mwalton.github.io.git
+	url = https://github.com/mwalton/mwalton.github.io.git
 [submodule "themes/Flex"]
 	path = themes/Flex
 	url = https://github.com/alexandrevicenzi/Flex.git
