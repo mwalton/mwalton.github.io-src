@@ -1,8 +1,8 @@
-Title: Notes on Policy Gradients and Score Function Estimators
-Date: 2018-11-30
+Title: Policy Gradients and Score Function Estimators
+Date: 2018-4-13
 Category: Reinforcement Learning
 Tags: reinforcement learning, policy gradients, python, jupyter
 slug: pg-notes
 Authors: Mike Walton
-Summary: coming soon <img src="{static}/images/pg_pic.png" alt="pg_notes" height="100%" width="100%"/>
+Summary: <img src="{static}/images/pg_pic.png" alt="pg_notes" height="100%" width="100%"/>
 

@@ -1,0 +1,8 @@
+Title: Neural Stacks & "Learning to Transduce with Unbounded Memory"
+Date: 2018-8-15
+Category: RNNs
+Tags: recurrent networks, differentiable memory, attention, python, jupyter
+slug: diff-mem
+Authors: Mike Walton
+Summary: <img src="{static}/images/ns_example_op.png" alt="pg_notes" height="100%" width="100%"/>
+
